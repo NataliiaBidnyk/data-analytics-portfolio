@@ -2,7 +2,7 @@
 
 ## 1. Customer churn analysis (Python)
 Exploratory analysis of 7,043 telecom customers: who churns and why.
-Data quality checks, 11 business questions, chi-square tests and retention recommendations.
+Data quality checks, 11 business questions.
 → [churn_analysis.ipynb](churn_analysis.ipynb)
 
 ## 2. Olist order delivery performance (Power BI)
